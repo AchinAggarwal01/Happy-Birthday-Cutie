@@ -19,7 +19,7 @@ export default function Home() {
 
   // For testing
 
-  const birthdayDate = new Date("2025-06-25T23:05:00+05:30")
+  const birthdayDate = new Date("2025-06-26T00:00:00+05:30")
 
   useEffect(() => {
     setTimeout(() => {
